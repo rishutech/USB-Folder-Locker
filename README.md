@@ -3,8 +3,9 @@ USB Folder Locker is created by Waren Gonzaga, this is based on batch scripting 
 
 As Seen on Instructables: http://www.instructables.com/id/How-to-Protect-Your-Files-Inside-Your-USB-Drive/
 
+## Watch the Video Tutorial
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jYG2GHOSuEM/0.jpg)](https://www.youtube.com/watch?v=jYG2GHOSuEM)
 
-Do you like this USB Application?
-Please consider to donate!
+Do you like this USB Application?<br>
+Please consider to donate! <br>
 Donate by Bitcoin: https://www.coinbase.com/checkouts/a35c5e9a2adf1105d1c9bf7f3f61dfc0
