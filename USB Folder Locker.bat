@@ -301,7 +301,7 @@ color 09
 echo =
 echo =
 echo =
-start https://www.google.com
+start http://www.instructables.com/id/How-to-Protect-Your-Files-Inside-Your-USB-Drive/
 pause
 goto MENU
 :LOCK
