@@ -1,6 +1,8 @@
 # USB Folder Locker
 USB Folder Locker is created by Waren Gonzaga, this is based on batch scripting language and converted into executable file format to protect the code as well the password inside the batch file. The idea of locking folder is based on Folder Locker made by deepak-arora. This batch based application is lightweight and can run stand alone. It does not require .dll or .net frameworks to run so it means it is very portable. You can use this program inside your USB directory to hide the files that is very important to you.
 
+<b>Note:</b> This is Available for <b>Windows</b> only!
+
 <b>As Seen on Instructables:</b> http://www.instructables.com/id/How-to-Protect-Your-Files-Inside-Your-USB-Drive/
 
 ## Watch the Video Tutorial
