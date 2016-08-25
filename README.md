@@ -11,4 +11,4 @@ USB Folder Locker is created by Waren Gonzaga, this is based on batch scripting 
 Do you like this USB Application?<br>
 Please consider to donate! <br>
 <b>Bitcoin Address:</b> 1PaTxpBPtuYewVo5ypkmKPtcNJzA8ucwEc <br/>
-<b>Donate by Bitcoin:</b> https://www.coinbase.com/checkouts/a35c5e9a2adf1105d1c9bf7f3f61dfc0
+<b>Donate by Bitcoin:</b> https://www.coinbase.com/warengonzaga/
